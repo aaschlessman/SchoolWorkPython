@@ -1,0 +1,12 @@
+0.0 5.0 4.0
+0.3 0.0 0.0
+0.0 0.5 0.0
+1234 1234 1234
+
+------------------------
+#comment - how to interpret this data?
+Line 1: fecundity rate
+Line 2: % of females in 1st age class that survive into the 2nd
+Line 3: % of females that survive into the 3rd  age class
+
+Last line: initial population distribution for the different age class
